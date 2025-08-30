@@ -1,3 +1,4 @@
+The final project of Lab 1
 Project: lab-classes
 Authors: David J. Barnes and Michael Kölling
 
