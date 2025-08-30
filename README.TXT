@@ -26,6 +26,8 @@ Question 22: A small window appeared. In this window I could inspect the string 
 
 Question 24: A small window appeared, but I couldn't inspect the int of the object.
 
-Question 31: 
+Question 31: Byte, short and int
 
 Question 32: I would have to add a class to create a circle object
+
+Question 36: No it cannot, because but a class can have several objects because a class create specific objet.
