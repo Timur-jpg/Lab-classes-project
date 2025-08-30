@@ -17,3 +17,15 @@ some simple code. See chapters one and three of the book.
 To use this project, create some Student objects, then create a LabClass object.
 Add the students to the class using the "enrolStudent" method. Print a class
 list.
+
+Answers:
+
+Part 5 
+
+Question 22: A small window appeared. In this window I could inspect the string of the oject.
+
+Question 24: A small window appeared, but I couldn't inspect the int of the object.
+
+Question 31: 
+
+Question 32: I would have to add a class to create a circle object
